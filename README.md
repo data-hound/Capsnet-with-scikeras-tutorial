@@ -1,5 +1,5 @@
 # Capsnet-with-scikeras-Tutorial
-A colab notebook template to create a Multi-Input-Multi-Output Estimator using Sci-Keras and wrap it around a CapsNet Model to train the model using GridSearchCV hyperparmeter tuning.
+A colab notebook template to create a Multi-Input-Multi-Output Estimator using Sci-Keras and wrap it around a CapsNet Model to train the model using GridSearchCV hyperparmeter tuning. Read more about scikeras at: https://scikeras.readthedocs.io/en/latest/index.html
 
 ## The peculiar features of CapsNet that make the implementation non-trivial
 - Capsule Layer - which is a non-conventional layer type, hence, user defined
